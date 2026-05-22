@@ -1,5 +1,21 @@
+# python
+.venv/
+__pycache__/
 
+# dbt generated
 target/
 dbt_modules/
 logs/
 dbt_internal_packages/
+dbt_packages/
+.vscode/
+.github/
+
+# credentials
+.env
+profiles.yml
+profiles/
+*.key
+*.pem
+
+
