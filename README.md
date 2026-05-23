@@ -10,9 +10,7 @@ https://github.com/dbt-labs/dbt-learn-gt-init
 - dbt Core
 - dbt-databricks adapter
 - Databricks Free Edition
-- Unity Catalog
 - uv for Python environment management and command execution
-- VS Code
 
 ## Package Management - uv
 
