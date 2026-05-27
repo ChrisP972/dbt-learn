@@ -2,14 +2,15 @@
 
 This repository documents my hands-on learning with dbt Core and Databricks using the Jaffle Shop tutorial.
 
+## Source
+https://github.com/dbt-labs/dbt-learn-gt-init
+
 ## Stack
 
 - dbt Core
 - dbt-databricks adapter
 - Databricks Free Edition
-- Unity Catalog
 - uv for Python environment management and command execution
-- VS Code
 
 ## Package Management - uv
 
