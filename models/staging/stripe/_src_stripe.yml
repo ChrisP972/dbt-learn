@@ -1,0 +1,6 @@
+sources:
+  - name: stripe
+    database: training_dev
+    schema: stripe
+    tables:
+      - name: stripe_payments
